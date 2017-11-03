@@ -1,5 +1,5 @@
 # react-timer
-Simple timer in react build to solidify knowledge of react components
+Simple timer in react built to solidify knowledge of react components
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
