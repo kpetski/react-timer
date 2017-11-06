@@ -1,6 +1,13 @@
 # react-timer
 Simple timer in react built to solidify knowledge of react components
 
+## Instructions
+1. Move Timer and Button to separate files
+2. Create a pause and resume buttons (could be one button as a toggle)
+3. Create a reset button (separate component)
+4. Create a custom timer with an input field (separate component)
+5. Change to minutes, not seconds
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
