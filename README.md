@@ -1,6 +1,8 @@
 # react-timer
 Simple timer in react built to solidify knowledge of react components
 
+View application at: https://kpetski.github.io/react-timer/
+
 ## Instructions
 1. Move Timer and Button to separate files
 2. Create a pause and resume buttons (could be one button as a toggle)
