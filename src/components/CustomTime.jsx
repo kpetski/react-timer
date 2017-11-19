@@ -49,6 +49,7 @@ class CustomTime extends Component {
                             id="hours"
                             required
                             type="number"
+                            pattern="\d*"
                             min="0" />
                             <label htmlFor="hours">Hours</label>
                         </div>
@@ -60,6 +61,7 @@ class CustomTime extends Component {
                             id="minutes"
                             required 
                             type="number"
+                            pattern="\d*"
                             min="0"/>
                             <label htmlFor="minutes">Minutes</label>
                         </div>
@@ -71,6 +73,7 @@ class CustomTime extends Component {
                             id="seconds" 
                             required
                             type="number"
+                            pattern="\d*"
                             min="0"/>
                             <label htmlFor="seconds">Seconds</label>
                         </div>
